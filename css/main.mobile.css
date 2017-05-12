@@ -1,0 +1,20 @@
+/* 
+ * Copyright (C) 2012 Binux <17175297.hk@gmail.com>
+ *
+ * This file is part of YAAW (https://github.com/binux/yaaw).
+ *
+ * YAAW is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License as
+ * published by the Free Software Foundation, either version 3 of
+ * the License, or (at your option) any later version.
+ *
+ * YAAW is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ * You may get a copy of the GNU Lesser General Public License
+ * from http://www.gnu.org/licenses/lgpl.txt
+ *
+ */
+@media (min-width: 980px){#active-tasks .left-area{margin-right:286px}#active-tasks .right-area{width:270px}#other-tasks .left-area{margin-right:416px}#other-tasks .right-area{width:400px}#other-tasks .task-info{width:190px}#other-tasks .progress{width:200px}}@media (max-width: 980px){#active-tasks .left-area{margin-right:186px}#active-tasks .right-area{width:170px}#other-tasks .left-area{margin-right:246px}#other-tasks .right-area{width:230px}#other-tasks .task-info{width:120px}#other-tasks .progress{width:100px}}
